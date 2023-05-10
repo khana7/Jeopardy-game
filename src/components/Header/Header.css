@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,700&display=swap');
+.header__title{
+    font-size: 30px;
+    font-weight: 700;
+    padding: 40px;
+    padding-right: 100px;
+
+}
+
+.header__wrapper{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    background-color: yellow;
+
+}
+.header__link{
+    padding-left: 30px;
+}
+
+.header__actions{
+    display: flex;
+    align-items: center;
+}
+.header__btn{
+    background-color: rgb(242, 255, 65);
+    color: black;
+    padding: 10px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
